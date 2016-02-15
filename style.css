@@ -1,0 +1,62 @@
+#header-img{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+    margin-right: 30px;
+}
+header {
+    margin-bottom: 30px;
+}
+nav{
+    align-content: center;
+}
+nav >a {
+    border: 1px solid;
+    text-decoration: none;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    padding: 10px;
+}
+aside{
+    float: left;
+
+}
+hr{
+    clear: both;
+    margin-top: 10%;
+}
+#body-image{
+    margin-right: 5%;
+}
+footer{
+
+    text-align: center;
+}
+.cheese{
+    float: left;
+}
+
+article >p{
+    width: 200px;
+}
+body{
+    width: 60%;
+    margin-left: 25%;
+}
+.joke-img{
+    width: 50%;
+}
+#name{
+     display: inline;
+ }
+#email{
+    display: inline;
+}
+#fav-cheese{
+    display: inline;
+}
+
+#cheese-problem {
+    display: inline;
+}
